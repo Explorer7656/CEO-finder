@@ -23,13 +23,13 @@ python -m spacy download es_core_news_sm
 
 ## Usage
 
-Params.jpeg
+
 
 Inputting company name and mainpage url is done in line 17. parameters are in a list with company_url and company_name being str.
 
-output.jpeg
 
-The output format is CSV. Output path is inputted inside function "run_pipeline_and_output" in line 
+
+The output format is CSV. Output path is inputted inside function "run_pipeline_and_output" in line 201.
 
 
 
