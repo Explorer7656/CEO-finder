@@ -1,0 +1,9 @@
+requests == 2.32.4
+beautifulsoup4 == 4.13.4
+pdfplumber == 0.11.7
+scrapy == 2.13.3
+sklearn == 1.7.1
+langdetect ==  1.0.9
+pandas == 2.3.1
+spacy == 3.8.7
+nltk == 3.9.1
