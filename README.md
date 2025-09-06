@@ -1,6 +1,6 @@
 # CEO-finder
 This project finds the name of the CEO/Founder of a company by using company name and 
-main-page URL as inputs.
+main-page URL.
 
 ## Features
 - Crawls company websites for text content
